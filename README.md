@@ -1,16 +1,24 @@
-## Hi there 👋
+## Acerca de mí
 
-<!--
-**4n0ncr4/4n0ncr4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy estudiante de Ingeniería en Sistemas Computacionales en el Instituto Tecnológico de Celaya. Este perfil es un espacio para reunir mis prácticas, ejercicios y proyectos personales, así como documentar mi progreso durante mi formación.
 
-Here are some ideas to get you started:
+## Conocimientos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Lenguajes de programación
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,py,cpp,bash&perline=4" alt="Java, Python, C++ y Bash" />
+</p>
+
+### Sistemas operativos
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=windows,apple,linux&perline=3" alt="Windows, macOS y Linux" />
+</p>
+
+### Herramientas y plataformas
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea&perline=4" alt="Git, GitHub, Visual Studio Code e IntelliJ IDEA" />
+  <img src="https://cdn.simpleicons.org/iterm2/808080" width="48" height="48" alt="iTerm2" />
+</p>
